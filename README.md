@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jelrist
-- 👀 I’m interested in creative content creation.
+- 👀 I’m interested in creative content for educational purposes.
 - 🌱 I’m currently learning python programming.
 - 💞️ I’m looking to collaborate on creative use of python for data visualisation.
 - 📫 How to reach me: jelena.ristic@gmail.com
